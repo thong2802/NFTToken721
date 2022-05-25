@@ -1,0 +1,16 @@
+{
+    "name": "Card 1",
+    "description": "Genesis card",
+    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/assets/1.jpg",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "dragon"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
+}
