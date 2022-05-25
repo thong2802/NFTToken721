@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/Strings.sol";
 
 contract ERC721token is ERC721{
     using Strings for uint256;
-    string public baseURI = ;
+    string public baseURI = "https://raw.githubusercontent.com/thong2802/NFTToken721/master/assets/";
 
     constructor() ERC71( "NFT Demo", "NFTDT") {
 

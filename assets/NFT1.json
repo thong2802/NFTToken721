@@ -1,7 +1,7 @@
 {
     "name": "Card 1",
     "description": "Genesis card",
-    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/assets/1.jpg",
+    "image_url": "https://raw.githubusercontent.com/thong2802/NFTToken721/master/assets/1.json",
     "attributes": [
         {
           "trait_type": "class", 
